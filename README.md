@@ -1,11 +1,3 @@
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Propeller Clock Pattern Designer" />
-
-  &#xa0;
-
-  <!-- <a href="https://propellerclockpatterndesigner.netlify.app">Demo</a> -->
-</div>
-
 <h1 align="center">Propeller Clock Pattern Designer</h1>
 
 <p align="center">
@@ -50,7 +42,7 @@ This Propeller Clock Pattern Designer is a software which allows you to build a 
 
 The following tools were used in this project:
 
-- [Python](https://www.python.org/)
+- [wxWidgets](https://www.wxwidgets.org/)
 
 ## :white_check_mark: Requirements ##
 
